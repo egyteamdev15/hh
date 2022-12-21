@@ -12,30 +12,30 @@ import Valuability from '../Components/Valuability'
 const Home = () => {
   return (
     <>
-  <div className=''>
-    {/* slider  section*/}
-    <Sliders/>
-    {/* about section */}
-  <About/>
+      <div className=''>
+        {/* slider  section*/}
+        <Sliders />
+        {/* about section */}
+        <About />
 
-  {/* goals section */}
-  <Goals/>
+        {/* message sevtion */}
+        <Message />
+        {/* goals section */}
+        <Goals />
 
-{/* message sevtion */}
-<Message/>
-  {/* services section */}
-  <Services/>
-  {/* valiability */}
-  <Valuability/>
-  {/* socail */}
-<SocialResponsibility/>
- {/* misson */}
- <Mission/>
+        {/* services section */}
+        <Services />
+        {/* valiability */}
+        <Valuability />
+        {/* socail */}
+        <SocialResponsibility />
+        {/* misson */}
+        <Mission />
 
 
-  {/* contact section */}
-  <Contact/>
-  </div>
+        {/* contact section */}
+        <Contact />
+      </div>
     </>
   )
 }

@@ -32,7 +32,7 @@ const Mission = () => {
     <div className="col-md-6">
         <div className="items">
          <p className='fw-bolder text-black-50 mb-3'>
-         أن يكون شريكا ذا قيمة عالية لعملاءنا ونوفر لهم خدمات مهنية مبتكرة مع الوفاء والالتزام بإتمام المشاريع على الوقت المتفق عليه، والمواصفات المطلوبة والجودة العالية وضمن الميزانية المتفق عليها
+         أن نكون شريكا ذا قيمة عالية لعملاءنا ونوفر لهم خدمات مهنية مبتكرة مع الوفاء والالتزام بإتمام المشاريع على الوقت المتفق عليه، والمواصفات المطلوبة والجودة العالية وضمن الميزانية المتفق عليها
          </p>
          <p className='fw-bolder text-black-50 mb-3'>
          تحقيق النمو من خلال استثمار الفرص، وخلق التكاملات، والعمل بمسؤولية موثوقة لتحقيق الرخاء لشركائنا وموظفينا ومجتمعنا
@@ -41,7 +41,7 @@ const Mission = () => {
     </div>
     <div className="col-md-6 ">
         <div className="items">
-            <img  data-aos="flip-left" src='./images/397cd3e3-b2f1-42f8-80b0-fe2f7d92f17a-removebg-preview.png' className='w-75'/>
+            <img  data-aos="flip-left" src='./images/397cd3e3-b2f1-42f8-80b0-fe2f7d92f17a-removebg-preview.png' alt="black hourse" className='w-75'/>
         </div>
     </div>
 </div>

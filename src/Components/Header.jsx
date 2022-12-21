@@ -116,17 +116,17 @@ const Header = () => {
           {/* icons whatsapp */}
           <div className="icons-whatsapp">
             <a href='https://wa.me/+966565821156' target='_blank'>
-              <i class="fa-brands fa-whatsapp"></i>            </a>
+              <i class="fa-brands fa-whatsapp text-success"></i>            </a>
           </div>
 
           <div className="icons-facbook">
             <a href='https://www.facebook.com/people/The_Black_Horse/100087437136721/' target='_blank'>
-              <i class="fa-brands fa-facebook"></i>            </a>
+              <i class="fa-brands fa-facebook "></i>            </a>
           </div>
 
           <div className="icons-twitter">
             <a href='https://twitter.com/i/flow/login' target='_blank'>
-              <i class="fa-brands fa-twitter"></i>            </a>
+              <i class="fa-brands fa-twitter text-white"></i>            </a>
           </div>
 
 
