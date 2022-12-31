@@ -503,6 +503,9 @@ background-color: red  !important;
   width: 200px !important;
   height: 200px;
   transition: all 0.4s;
+
+  object-fit: cover;
+
 }
 
 .services .images {

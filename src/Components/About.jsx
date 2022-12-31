@@ -27,9 +27,9 @@ const About = () => {
                                 </p>
 
 
-                                <div class="ceter-button mt-4">
+                                {/* <div class="ceter-button mt-4">
                                     <button class="glow-on-hover" type="button">قراءة المزيد</button>
-                                </div>
+                                </div> */}
                             </div>
                         </div>
 
