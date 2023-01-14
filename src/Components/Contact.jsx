@@ -54,8 +54,8 @@ const Contact = () => {
 
                     <div className=" mt-lg-0 mt-md-0 mt-4 col-md-6 text-center">
                         <div className="items">
-                            <img data-aos="zoom-in" src='/images/contact-us-showcase.png' className="w-75" />
-
+                            {/* <img data-aos="zoom-in" src='/images/contact-us-showcase.png' className="w-75" /> */}
+                            <iframe data-aos="zoom-in" width="100%" height="450" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3456.81891989603!2d40.199215915112966!3d29.955886781914597!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2cb24bf53e64ccfb!2zMjnCsDU3JzIxLjIiTiA0MMKwMTInMDUuMSJF!5e0!3m2!1sen!2seg!4v1673689864408!5m2!1sen!2seg" style={{ border: "0", allowfullscreen: "", loading: "lazy", referrerpolicy: "no-referrer-when-downgrade" }}></iframe>
                         </div>
                     </div>
                 </div>
